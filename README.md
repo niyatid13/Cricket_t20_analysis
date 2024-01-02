@@ -1,5 +1,5 @@
 # Cricket_t20_analysis
- In this project using Data analysis by various measures best 11 players were to be chosen for building a cricket team. This project was part of a Power BI course. 
+ - In this project using Data analysis by various measures best 11 players were to be chosen for building a cricket team. This project was part of a Power BI course. 
 
  
 ![cric1](https://github.com/niyatid13/Cricket_t20_analysis/assets/88267162/b4408f0c-8ed2-4b2f-9b29-838e48f17fbb)
