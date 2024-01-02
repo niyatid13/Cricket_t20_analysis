@@ -8,7 +8,7 @@
 ![cric2](https://github.com/niyatid13/Cricket_t20_analysis/assets/88267162/f728e3e8-e41d-4a71-bbfc-d02acbb77da3)
 
 
-Choosing Final 11 Players for the team
+- Choosing Final 11 Players for the team
 
 
 ![cric6](https://github.com/niyatid13/Cricket_t20_analysis/assets/88267162/283d5ada-2ca0-4743-8e01-61269c8449d6)
